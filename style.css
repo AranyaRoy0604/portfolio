@@ -1,0 +1,52 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #0f172a;
+  color: white;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background: #1e293b;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  gap: 30px;
+}
+
+.profile-img {
+  width: 200px;
+  border-radius: 50%;
+  border: 3px solid #38bdf8;
+}
+
+section {
+  padding: 30px;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+.project {
+  background: #1e293b;
+  padding: 15px;
+  margin: 10px auto;
+  width: 60%;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #1e293b;
+}
+
+
